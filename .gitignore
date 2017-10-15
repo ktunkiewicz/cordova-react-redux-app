@@ -1,0 +1,18 @@
+### OS files
+.DS_Store
+Thumbs.db
+
+### Node
+node_modules/
+
+### Builds
+platforms/android/build/
+platforms/ios/build/
+
+### Webpack
+www/lib/
+
+### Other
+*.log
+*.sass-cache*
+*~imageoptim*
