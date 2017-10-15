@@ -55,9 +55,9 @@ The requirements needed can be found using the command:
 cordova requirements
 ```
 
-Follow these guidelines to complete Setup
-https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html#installing-the-requirements
-https://cordova.apache.org/docs/en/latest/guide/platforms/ios/index.html#installing-the-requirements
+Follow these guidelines to complete Setup  
+https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html#installing-the-requirements  
+https://cordova.apache.org/docs/en/latest/guide/platforms/ios/index.html#installing-the-requirements  
 
 ## Setup (Windows-only)
 Windows users have to reconfigure Webpack and install some additional dependencies.
