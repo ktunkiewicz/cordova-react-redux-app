@@ -1,4 +1,4 @@
-# cordova react-redux-app
+# cordova-react-redux-app
 
 An opinionated development-ready Cordova-React-Redux boilerplate that will instantly get you going.
 
