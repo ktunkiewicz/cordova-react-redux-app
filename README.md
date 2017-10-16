@@ -61,7 +61,7 @@ Follow these guidelines to complete Setup
 https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html#installing-the-requirements  
 https://cordova.apache.org/docs/en/latest/guide/platforms/ios/index.html#installing-the-requirements  
 
-IMPORTANT: using Java JDK 9 would result in an exception, use Java JDK 8 instead
+**IMPORTANT**: Using Java JDK 9 would result in an exception, for now please **use Java JDK 8 instead**.
 
 ## Setup (Windows-only)
 Windows users have to reconfigure Webpack and install some additional dependencies.
