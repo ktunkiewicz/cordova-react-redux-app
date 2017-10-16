@@ -1,8 +1,10 @@
-# react-redux-app
+# cordova react-redux-app
 
-An opinionated development-ready React-Redux boilerplate that will instantly get you going.
+An opinionated development-ready Cordova-React-Redux boilerplate that will instantly get you going.
 
 ## Features
+* [x] Cordova
+  * [x] Crosswalk
 * [x] React
 * [x] Redux
 * [x] Redux DevTools
