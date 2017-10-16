@@ -51,7 +51,8 @@ Simply install the npm project dependencies:
 npm install
 ```
 
-Make sure to have cordova installed globally and complete installation of certain requirements
+Make sure to have cordova installed globally and complete installation of certain requirements.
+
 The requirements needed can be found using the command:
 ```
 cordova requirements
