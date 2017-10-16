@@ -4,9 +4,7 @@
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
-    <author email="cheng.kuan2000@gmail.com">
-        Ngai Cheng Kuan
-    </author>
+    <author email="dev@leinwand.cc" href="leinwand.cc">LEINWAND</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
