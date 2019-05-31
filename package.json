@@ -42,7 +42,7 @@
     },
     "homepage": "https://github.com/miclaus/create-react-redux-app#readme",
     "dependencies": {
-        "axios": "^0.15.2",
+        "axios": "^0.18.0",
         "classnames": "^2.2.5",
         "cordova-android": "^6.2.3",
         "cordova-ios": "^4.4.0",
